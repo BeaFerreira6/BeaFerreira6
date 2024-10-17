@@ -1,4 +1,4 @@
-![octocat-1727113917687,figura2](https://github.com/user-attachments/assets/62af67bf-45da-448b-ade5-0f5aedbe108b)
+<imgheight="30" width="40" ![octocat-1727113917687,figura2](https://github.com/user-attachments/assets/62af67bf-45da-448b-ade5-0f5aedbe108b)>
 
 
 <h1>Beatriz Ferreira</h1>
@@ -9,7 +9,16 @@
 <h2>Hello, Devs!!</h2>
 <p>Tenho 17 anos, sou de Ribeirão Preto e sou apaixonada por programação e felinos! Sou aventureira no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤</p>
 
-<img https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
 
 
 <h2>🖥️ Tecnologias e Ferramentas:</h2>
@@ -22,4 +31,4 @@
 ☕🎮 só acordo com café, adoro filmes.
 
 
-<p>📫 Você pode falar comigo pelo <strong>Instagram:</strong> <a class="links" href="mailto:https://b.ferreirax">insta</a> (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)</p>
+<p>📫 Você pode falar comigo pelo <a class="links" href="mailto:https://b.ferreirax">Instagram</a> (eu demoro a responder as vezes mas sou legal, juro 🙃) =) </p>
