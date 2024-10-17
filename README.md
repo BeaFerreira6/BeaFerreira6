@@ -23,5 +23,5 @@
 </div>
 <br><br>
 
- <p><strong>Instagram:</strong> <a class="links" href="mailto:https://b.ferreirax">insta</a></p>
+<p><strong>Linkedin:</strong>strong>class="links" href="www.linkedin.com/in/ana-beatriz6"
  <p><strong>Email:</strong> <a class="links" href="mailto:4nabeatriz10@gmail.com">4nabeatriz10@gmail.com</a></p>
