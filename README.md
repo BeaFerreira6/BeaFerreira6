@@ -7,10 +7,11 @@
   <br>
 <p>🤿 Faço parte dos alunos da <a class="links" href="https://www.alura.io"><strong>Alura</strong></a>;</p>
   <br>
-<p>☕🎮só acordo com café, adoro filmes.</p>
+<p>☕ só acordo com café, adoro filmes.</p>
   <br>
-<p>📷 Compartilho minhas experiências, dicas de estudo e tecnologia no Instagram. <br>
+<p>📫 Compartilho minhas experiências, dicas de estudo e tecnologia no Instagram. <br>
   Você pode falar comigo por lá, (eu demoro a responder as vezes mas sou legal, juro 🙃) =) </p>
+  <p>📷 Adoro Fotografar..</p>
 <br><br>
 
 <h2>🖥️ Tecnologias e Ferramentas:</h2>
