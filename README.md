@@ -23,5 +23,5 @@
 </div>
 <br><br>
 
-<p><a class="links" href="www.linkedin.com/in/ana-beatriz6"><strong>Linkedin:</strong><a/><p/>
- <p><strong>Email:</strong> <a class="links" href="mailto:4nabeatriz10@gmail.com">4nabeatriz10@gmail.com</a></p>
+<p><a class="links" href="www.linkedin.com/in/ana-beatriz6"><strong>Linkedin</strong><a/><p/>
+ <p><a class="links" href="mailto:4nabeatriz10@gmail.com"><strong>E-mail</strong></a></p>
