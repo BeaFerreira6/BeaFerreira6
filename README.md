@@ -9,6 +9,7 @@
 <h2>Hello, Devs!!</h2>
 <p>Tenho 17 anos, sou de Ribeirão Preto e sou apaixonada por programação e felinos! Sou aventureira no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤</p>
 
+<img https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg>
 
 
 <h2>🖥️ Tecnologias e Ferramentas:</h2>
