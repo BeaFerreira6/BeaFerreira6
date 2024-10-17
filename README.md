@@ -10,6 +10,7 @@
 <p>☕🎮só acordo com café, adoro filmes.</p>
   <br>
 <p>📷 Compartilho minhas experiências, dicas de estudo e tecnologia no <a class="links" href="mailto:https://b.ferreirax">Instagram</a>. Você pode falar comigo por lá, (eu demoro a responder as vezes mas sou legal, juro 🙃) =) </p>
+<br><br>
 
 <h2>🖥️ Tecnologias e Ferramentas:</h2>
 <div style="display: inline_block"><br>
