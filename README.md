@@ -3,10 +3,14 @@
 
 
 <h2>Hello, Devs!!</h2>
-<p>Tenho 17 anos, sou de Ribeirão Preto e sou apaixonada por programação e felinos! Sou aventureira no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤<br>
-🤿 Faço parte dos alunos da <strong></strong> <a class="links" href="https://www.alura.io">Alura</a>;<br>
-📷 Compartilho minhas experiências, dicas de estudo e tecnologia no Instagram Segue lá e vem bater um papo!<br>
-☕🎮 só acordo com café, adoro filmes.<br>
+<p>Tenho 17 anos, sou de Ribeirão Preto e sou apaixonada por programação e felinos! Sou aventureira no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
+  <br>
+🤿 Faço parte dos alunos da <a class="links" href="https://www.alura.io"><strong>Alura</strong></a>;
+  <br>
+📷 Compartilho minhas experiências, dicas de estudo e tecnologia no Instagram Segue lá e vem bater um papo!
+  <br>
+☕🎮 só acordo com café, adoro filmes.
+  <br>
 <p>📫 Compartilho minhas experiências, dicas de estudo e tecnologia no <a class="links" href="mailto:https://b.ferreirax">Instagram</a>. Você pode falar comigo por lá, (eu demoro a responder as vezes mas sou legal, juro 🙃) =) </p>
 
 <h2>🖥️ Tecnologias e Ferramentas:</h2>
@@ -17,6 +21,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+<br><br>
 
  <p><strong>Instagram:</strong> <a class="links" href="mailto:https://b.ferreirax">insta</a></p>
  <p><strong>Email:</strong> <a class="links" href="mailto:4nabeatriz10@gmail.com">4nabeatriz10@gmail.com</a></p>
