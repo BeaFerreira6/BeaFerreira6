@@ -11,8 +11,6 @@
   <br>
 <p>📷 Compartilho minhas experiências, dicas de estudo e tecnologia no <a class="links" href="mailto:https://b.ferreirax">Instagram</a>. Você pode falar comigo por lá, (eu demoro a responder as vezes mas sou legal, juro 🙃) =) </p>
 
-  ##
-
 <h2>🖥️ Tecnologias e Ferramentas:</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
