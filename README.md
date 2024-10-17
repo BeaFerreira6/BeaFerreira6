@@ -7,11 +7,9 @@
   <br>
 <p>🤿 Faço parte dos alunos da <a class="links" href="https://www.alura.io"><strong>Alura</strong></a>;</p>
   <br>
-<p>📷 Compartilho minhas experiências, dicas de estudo e tecnologia no Instagram Segue lá e vem bater um papo!</p>
-  <br>
 <p>☕🎮só acordo com café, adoro filmes.</p>
   <br>
-<p>📫 Compartilho minhas experiências, dicas de estudo e tecnologia no <a class="links" href="mailto:https://b.ferreirax">Instagram</a>. Você pode falar comigo por lá, (eu demoro a responder as vezes mas sou legal, juro 🙃) =) </p>
+<p>📷 Compartilho minhas experiências, dicas de estudo e tecnologia no <a class="links" href="mailto:https://b.ferreirax">Instagram</a>. Você pode falar comigo por lá, (eu demoro a responder as vezes mas sou legal, juro 🙃) =) </p>
 
 <h2>🖥️ Tecnologias e Ferramentas:</h2>
 
