@@ -3,13 +3,13 @@
 
 
 <h2>Hello, Devs!!</h2>
-<p>Tenho 17 anos, sou de Ribeirão Preto e sou apaixonada por programação e felinos! Sou aventureira no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
+<p>Tenho 17 anos, sou de Ribeirão Preto e sou apaixonada por programação e felinos! Sou aventureira no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤</p>
   <br>
-🤿 Faço parte dos alunos da <a class="links" href="https://www.alura.io"><strong>Alura</strong></a>;
+<p>🤿 Faço parte dos alunos da <a class="links" href="https://www.alura.io"><strong>Alura</strong></a>;</p>
   <br>
-📷 Compartilho minhas experiências, dicas de estudo e tecnologia no Instagram Segue lá e vem bater um papo!
+<p>📷 Compartilho minhas experiências, dicas de estudo e tecnologia no Instagram Segue lá e vem bater um papo!</p>
   <br>
-☕🎮 só acordo com café, adoro filmes.
+<p>☕🎮só acordo com café, adoro filmes.</p>
   <br>
 <p>📫 Compartilho minhas experiências, dicas de estudo e tecnologia no <a class="links" href="mailto:https://b.ferreirax">Instagram</a>. Você pode falar comigo por lá, (eu demoro a responder as vezes mas sou legal, juro 🙃) =) </p>
 
