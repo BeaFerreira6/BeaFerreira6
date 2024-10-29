@@ -5,7 +5,7 @@
 <h2>Hello, Devs!!</h2>
 <p>Tenho 17 anos, sou de Ribeirão Preto e sou apaixonada por felinos! Sou aventureira no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤</p>
   <br>
-<p>🤿 Faço parte dos alunos da <a class="links" href="https://www.alura.io"><strong>Alura</strong></a>;</p>
+<p>🤿 Faço parte dos alunos da <a class="links" href="https://www.alura.io"><strong>Alura</strong></a>.</p>
   <br>
 <p>☕ só acordo com café, adoro filmes.</p>
   <br>
