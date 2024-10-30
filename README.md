@@ -7,7 +7,7 @@
   <br>
 <p>🤿 Faço parte dos alunos da <a class="links" href="https://www.alura.io"><strong>Alura</strong></a>.</p>
   <br>
-<p>☕ só acordo com café, adoro filmes.</p>
+<p>☕ adoro café e filmes;</p>
   <br>
 <p>📷 Adoro Fotografar..</p>
   <br>
